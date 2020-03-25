@@ -1,0 +1,20 @@
+{
+  "detail.js": "./static/js/detail.0c4d9f49.js",
+  "detail.js.map": "./static/js/detail.0c4d9f49.js.map",
+  "detail_show.js": "./static/js/detail_show.e0ede5f6.js",
+  "detail_show.js.map": "./static/js/detail_show.e0ede5f6.js.map",
+  "gamelist.js": "./static/js/gamelist.f600f355.js",
+  "gamelist.js.map": "./static/js/gamelist.f600f355.js.map",
+  "index.js": "./static/js/index.ea02960d.js",
+  "index.js.map": "./static/js/index.ea02960d.js.map",
+  "log.js": "./static/js/log.d1ca2b32.js",
+  "log.js.map": "./static/js/log.d1ca2b32.js.map",
+  "typelist.js": "./static/js/typelist.c04b322e.js",
+  "typelist.js.map": "./static/js/typelist.c04b322e.js.map",
+  "detail.html": "./detail.html",
+  "detail_show.html": "./detail_show.html",
+  "gamelist.html": "./gamelist.html",
+  "index.html": "./index.html",
+  "log.html": "./log.html",
+  "typelist.html": "./typelist.html"
+}
